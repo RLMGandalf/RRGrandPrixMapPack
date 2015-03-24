@@ -1,0 +1,25 @@
+{
+    "context": "client",
+    "identifier": "GrandPrixMapPack",
+    "display_name": "Rainbow Racers Grand Prix",
+    "description": "Grand Prix Map Pack",
+    "author": "Yuri Bros",
+    "version": "1.0",
+    "build": "79600",
+    "date": "2015/03/24",
+    "signature": "not yet implemented",
+	"category": [
+        "ui",
+		"maps"
+    ],
+    "load_planet": [
+        "coui://ui/mods/GrandPrixMapPack/maplist.js"
+    ],
+    "id": "a",
+    "icon": "http://i.imgur.com/626pjIy.png",
+    "priority": 500,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ]
+}
